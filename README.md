@@ -55,9 +55,11 @@ En problemformulering består ofte at ét hovedspørgsmål til problemet, som sk
       Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark?
       Hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel 
       og hvordan kom den til udtryk?
+ 
+ 
+Følg evt. Gyldendals vejledning til "Problemstilling"     
       
-      
-![isbjerg](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
+![Problemstilling-Gyldendal](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 
 
 
