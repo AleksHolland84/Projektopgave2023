@@ -17,9 +17,7 @@ Samling af dokumenter til Projektugen 2022
     3. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
 
     
-  
-
-[![RealPython](https://github.com/AleksHolland84/Projektopgave/blob/main/images/a_muninn.png)](https://github.com/AleksHolland84/Projektopgave/blob/main/README.md)
+ ___________________________________________________________________________________________________________________________________________________________________
 
 
 I løbet af 7. klasse skal I gennemføre en projektopgave. 
@@ -59,7 +57,7 @@ En problemformulering består ofte at ét hovedspørgsmål til problemet, som sk
       og hvordan kom den til udtryk?
       
       
-![isbjerg](https://www.metteullersted.dk/wp/wp-content/uploads/2014/09/isbjerget_web1.jpg)
+![isbjerg](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 
 
 
