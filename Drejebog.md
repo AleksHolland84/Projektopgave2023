@@ -50,7 +50,13 @@
 #### Torsdag
 - Produkt - 
 
+#### Fredag
+* Afslut rapport og produkt
+* Aflevering af rapport i 2 eksemplar (Udskrevet og underskrevet af 2 lærere): INDEN KL. 1300  (DEADLINE)
+* Aflevering af produkt: INDEN KL. 1300  (DEADLINE)
 
+OBS: Udskriv og aflsut produktet i god tid! 
+     Rapporter og produkter der ikke er udskrevet og afleveret kl. 1300 modtages ikke og betragtes som "manglende".
 
 ________________________________________________________________________________________________________________________________________________________________
 
