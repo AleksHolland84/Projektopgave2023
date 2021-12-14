@@ -5,38 +5,54 @@
 ![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_model.png)
 
 
-#### Onsdag uge 3   (d. 03.01.22)
+### Uge 3
+
+#### Onsdag uge 3   (d. 19.01.22  -  Fase: Opdag)
 * Præsentaation af Projektuge og overemne
 * Gennemgang af projektugen (![Drejebog](/Drejebog.md))      
 * Gruppedannelse (![Gruppekontrakt](/ressourcer/ideide-Værktøj-Skabelon-Gruppekontrakt-A4.pdf))
 * Formulering af delemne
+* Danne spørgsmål (problemstillinger)
 
-#### Onsdag uge 8
-* Præsentation af 
-* Danne spørgsmål (problemstillinger) d. 24.02.21
-* Påbegyndt formulering af problemformulering d. 24.02.21
-* Have aftalt vejledningstid med enten Katrine eller Aleks til torsdag. KRAV: Vi skal inden kl. 15.00 have modtaget jeres forløbige problemformulering d. 24.02.21
+#### Torsdag uge 3  (d. 20.01.22  -  Fase: Afgræns)
+* Påbegyndt formulering af problemformulering 
+* Have aftalt vejledningstid med enten Katrine, Aleks, Tobias eller Marianne til mandag uge 4. KRAV: Vi skal inden kl. 14.00 have modtaget jeres delemne, forløbige problemformulering samt forløbige kilder. 
+* Have fået en forløbig godkendelse af problemformulering af 2 vejledere (Katrine, Aleks, Tobias eller Marianne)
+* Udfuld projektplan skemaet (![Projektplan](/ressourcer/ideide-Værktøj-Skabelon-Projektplan-A4-38.pdf))
 
-#### Torsdag uge 8
-* Have gennemført vejledning med Katrine eller Aleks
+#### Fredag uge 3  (d. 21.01.22)
 * Udarbejdet færdig problemformulering
-* Have godkendt problemformulering inden kl 15.00
+* Have godkendt problemformulering inden kl 12.00
+* Have fundet mindst 3 kilder, hvoraf minimum én ikke skriftlig kilde (video, interview, case, billede osv.)
+* Igangsat forarbejde af indhentning af empiri - altså, lave aftaler med eventuelle "kilder/data/interview personer".
 
 
-#### Fredag uge 8 
-* Igangsat arbejde med projekt. Herunder lave aftaler med eventuelle "kilder/data"
-* Planlægge produkt. Krav til produkt; elektronisk, noget der kan vises/bruges online, som er relevant for jeres emne/problemformulering
+### Uge 4 
+
+#### Mandag uge 4 (d. 24.01.22  -  Fase: Opdag nr.2)
+- Rapport -
+* Indsamling af empiri - finde information der sammelagt kan hjælpe jer med ar besvare jeres problemformulering
+* Undersøg empiri og data - hvilke løsninger/svar på undring kan jeres indsamlet data give jer, mht jeres problemformulering
+
+
+#### Tirsdag uge 4 (d. 25.01.22  -  Fase:  Validere)
+- Rapport -
+* Argumentere for validiteten af jeres undersøgelse og belys jeres problemformulering i lyset af jeres empiri
+* Konkluderer ud fra jeres argumenter
+* Perspektiver - se jeres undersøgelse i et større perspektiv, enten historisk eller samfundsmmæssigt. 
+
+
+#### Onsdag uge 4  (d. 26.01.22  -  Fase Opdag nr.2)
+- Produkt -
+- 
+
+
+#### Torsdag
+- Produkt - 
 
 
 
- 
-## 1. del (gennemførs tirsdag - torsdag uge 8)
-
--   Gennemgå introduktion
--   Find ud af, hvad I ikke ved
--   Gruppedannelse: Eleverne danner grupper (1 - 3 personer)
-
-Når I har lagt jer fast på et delemne, skal I i gang med at indsamle viden og informationer om emnet. Jeres research skal I bruge, når I afgrænser jeres problemstilling.
+________________________________________________________________________________________________________________________________________________________________
 
 #### 1. Vælg et fælles emne
 Vælg overemne og delemne, som I vil arbejde med - Overemnet har vi valgt for jer, men I skal selv vælge et delemne. 
@@ -55,6 +71,3 @@ Vi gennemgår de forskellige spørgsmål på Padletten - Måske har de andre fun
 ## 2. del (gennemførs på fredag uge 8)
 -    Gennemgå Krav og vurdering
 
-
-## 3. del (gennemføres hele uge 9)
-- reel projektuge
