@@ -1,7 +1,7 @@
 
 # Trin for trin og Deadlines
 
-##### Dette dokument indeholder alle deadlines. Desse **SKAL** overholdes! 
+##### Dette dokument indeholder alle deadlines. Disse **SKAL** overholdes! 
 ![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_model.png)
 
 
@@ -60,20 +60,4 @@ OBS: Udskriv og aflsut produktet i god tid!
 
 ________________________________________________________________________________________________________________________________________________________________
 
-#### 1. Vælg et fælles emne
-Vælg overemne og delemne, som I vil arbejde med - Overemnet har vi valgt for jer, men I skal selv vælge et delemne. 
--    Lav brainstorm over evt. underemner/delemner [Padlet](https://padlet.com/aleks_holland_johansen1/vlk0iv9kro2wz13b)
-
-#### 2. Tøm hovedet
-Gå sammen i jeres grupper, og stil så mange spørgsmål, I kan komme i tanke om, til emnet. Skriv alt ned, også selvom det ikke er helt præcist i [Padletten](https://padlet.com/aleks_holland_johansen1/vlk0iv9kro2wz13b).
-Det er ikke sikkert, at I skal bruge alle spørgsmålene, men øvelsen skal hjælpe jer til at blive klogere på, hvad der optager jer mest ved emnet. 
--    Lav spørgsmål til underemner [Padlet](https://padlet.com/aleks_holland_johansen1/vlk0iv9kro2wz13b)
-
-
-#### 3. Del spørgsmål med hinanden
-Vi gennemgår de forskellige spørgsmål på Padletten - Måske har de andre fundet på noget at spørge om, som I ikke selv kom i tanke om. 
-
-
-## 2. del (gennemførs på fredag uge 8)
--    Gennemgå Krav og vurdering
 
