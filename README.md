@@ -4,14 +4,14 @@ Samling af dokumenter til Projektugen 2022
 # Table of Contents
 1. [Projektopgave](#projektopgave)
     1. [Hvad er en projektopgave?](#hvad-er-en-projektopgave)
-2. [Gode spørgsmål](#gode-spørgsmål)
-    1. [Spørgsmålstyper](#spørgsmålstyper)
-    2. [De 4 spørgsmålstyper](#de-fire-spørgsmålstyper)
-3. [Opgavens indhold](#opgavens-indhold)
-4. [Kildehenvisning](#kildehenvisning)
+    2. [Gode spørgsmål](#gode-spørgsmål)
+        1. [Spørgsmålstyper](#spørgsmålstyper)
+        2. [De 4 spørgsmålstyper](#de-fire-spørgsmålstyper)
+2. [Opgavens indhold](#opgavens-indhold)
+3. [Kildehenvisning](#kildehenvisning)
     1. [Hvordan henviser du til kilder](#hvordan-henviser-du-til-kilder)
     2. [Kildehenvisning i din opgave](#kildehenvisning-i-din-opgave)
-5. [Layout eksempler](#layout-eksempler)
+4. [Layout eksempler](#layout-eksempler)
     1. [Eksempel på opsætning af forside, indholdsfortegnelse og indledning](#eksempel-på-opsætning-af-forside-indholdsfortegnelse-og-indledning)
     2. [Eksempel på opsætning med kilder i fodnote](#eksempel-på-opsætning-med-kilder-i-fodnote)
     3. [Eksempel på opsætning af referenceliste/bibliografi](#eksempel-på-opsætning-af-referencelistebibliografi)
@@ -57,13 +57,8 @@ En problemformulering består ofte at ét hovedspørgsmål til problemet, som sk
       og hvordan kom den til udtryk?
  
  
-Følg evt. Gyldendals vejledning til "Problemstilling"     
-      
-![Problemstilling-Gyldendal](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 
-
-
-# Gode spørgsmål
+## Gode spørgsmål
 
 En god projektopgave bygger på gode spørgsmål. De gode spørgsmål leder dig på vej, og hjælper dig med at afgrænse problemet, men giver også mulighed for fordybelse og undren.
 
@@ -74,6 +69,10 @@ Nogle spørgsmål er *faktaspørgsmål* som giver specifikke svar på¨enkle sp�
 Andre spørgsmål ligger op til *forklaring og forståelse* som kan diskuteres og som kan have betydning for, hvordan man ser problemet og fra hvilken vinkel.
 Dertil kommer også *holdnings- og vurderingsspørgsmål* som giver mulighed for at beskrive hvordan du forholder dig til problemet og hvilken betydning det har for dig og andre - her er der også mulighed for at perspektiverer. 
 Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle løsningsforslag, tydeliggøre den adfærd der leder frem til problemet osv.
+
+Følg evt. Gyldendals vejledning til "Problemstilling"     
+     
+![Problemstilling-Gyldendal](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 
 
 ### De fire spørgsmålstyper
@@ -120,6 +119,8 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 ||*Hvordan* kan man sikre, at de sociale medier ikke tager magten over mennesket?|
 ||*Hvordan* kan man påvirke hinanden til at bruge de sociale medier på en god måde?|
 
+
+____________________________________________________________________________________________________________________________________________________________________
 
 # Opgavens indhold
 
