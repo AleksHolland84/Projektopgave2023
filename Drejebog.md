@@ -5,11 +5,14 @@
 ![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_model.png)
 
 
-#### Tirsdag uge 8
-* Gruppedannelse            d. 23.02.21
-* Formulering af delemne    d. 23.02.21
+#### Onsdag uge 3   (d. 03.01.22)
+* Præsentaation af Projektuge og overemne
+* Gennemgang af projektugen (![Drejebog](/Drejebog.md))      
+* Gruppedannelse (![Gruppekontrakt](/ressourcer/ideide-Værktøj-Skabelon-Gruppekontrakt-A4.pdf))
+* Formulering af delemne
 
 #### Onsdag uge 8
+* Præsentation af 
 * Danne spørgsmål (problemstillinger) d. 24.02.21
 * Påbegyndt formulering af problemformulering d. 24.02.21
 * Have aftalt vejledningstid med enten Katrine eller Aleks til torsdag. KRAV: Vi skal inden kl. 15.00 have modtaget jeres forløbige problemformulering d. 24.02.21
