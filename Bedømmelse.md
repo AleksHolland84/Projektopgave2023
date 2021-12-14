@@ -33,9 +33,9 @@ I bedømmelsen indgår en vurdering af:
 - Indeholder fremlæggelsen en konklusion på problemformuleringen?
 
 ## Hvor lang skal min fremlæggelse være?
-- 1 person: 10 minutter
-- 2 personer: 15 minutter
-- 3 personer: 25 minutter
+- 1 person: 20 minutter
+- 2 personer: 30 minutter
+- 3 personer: 40 minutter
 
 Her kan du se gode råd omkring fremlæggelse og hvad du evt. kan overveje:
 [Bedømmelse af projektopgaven](https://emu.dk/grundskole/dansk/projektopgaven/fremlaeggelse-og-bedoemmelse)
