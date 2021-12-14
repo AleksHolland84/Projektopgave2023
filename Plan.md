@@ -2,7 +2,7 @@
 # Trin for trin og Deadlines
 
 ##### Dette dokument indeholder alle deadlines. Desse **SKAL** overholdes! 
-![Process](https://www.metteullersted.dk/wp/wp-content/uploads/2014/09/isbjerget_web1.jpg)
+![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_forlb.png)
 
 
 #### Tirsdag uge 8
