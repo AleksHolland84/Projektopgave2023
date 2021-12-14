@@ -2,7 +2,7 @@
 # Trin for trin og Deadlines
 
 ##### Dette dokument indeholder alle deadlines. Desse **SKAL** overholdes! 
-![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_forlb.png)
+![Process](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Projektopgave_model.png)
 
 
 #### Tirsdag uge 8
