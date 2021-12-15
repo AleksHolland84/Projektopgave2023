@@ -21,8 +21,8 @@ Samling af dokumenter til Projektugen 2022
 
 
 
-I løbet af 7. klasse skal I gennemføre en projektopgave. 
-I projektopgaven skal I arbejde med at:
+I løbet af 7. - 9. klasse skal I gennemføre en række projektopgaver. 
+I projektforløbene skal I arbejde med at:
 
     - undersøge og finde informationer om overemne.
     - vælge et område (underemne), som I vil gå i dybden med og undersøge nærmere.
