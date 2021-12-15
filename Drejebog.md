@@ -47,10 +47,10 @@
 - 
 
 
-#### Torsdag
+#### Torsdag uge 4  (d. 27.01.22  -  Fase Validere)
 - Produkt - 
 
-#### Fredag
+#### Fredag uge 4  (d. 28.01.22  -  Aflevering)
 * Afslut rapport og produkt
 * Aflevering af rapport i 2 eksemplar (Udskrevet og underskrevet af 2 lærere): INDEN KL. 1300  (DEADLINE)
 * Aflevering af produkt: INDEN KL. 1300  (DEADLINE)
