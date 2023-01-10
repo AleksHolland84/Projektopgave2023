@@ -48,25 +48,53 @@ I projektforløbene skal I arbejde med at:
 
 
     💡 Inden vejledning skal I have afleveret materiale som skal vejledes på baggrund af. 
-    Hvis I ikke afleverer “vejlednings-materiale” bliver vores vejledning generel. Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.
+    Hvis I ikke afleverer “vejlednings-materiale” bliver vores vejledning generel. 
+    Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.
     
+
+# Projektopgave2023
+
+---
+
+I løbet af 7. - 9. klasse skal I gennemføre en række projektopgaver.
+I projektforløbene skal I bl.a. arbejde med at:
+
+
+    📌 
+    - undersøge og finde informationer om overemne.
+    - vælge et område (underemne), som I vil gå i dybden med og undersøge nærmere.
+    - stille gode spørgsmål til det, I undersøger.
+    - afgrænse en problemformulering, som danner grundlag for jeres undersøgelse.
+    - udvælge de informationer, som er væsentlige for jeres undersøgelse.
+    - svare og kommentere på de spørgsmål, I har stillet jer selv.
+    - forberede og udføre en fremlæggelse.
+
+
 ## Hvad er en projektopgave?
-En projektopgave er ikke en emneopgave, men en opgave hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta. I projektopgaven skal I arbejde på tværs af skolens fag og emner. Kort fortalt betyder det, at I bruger viden, arbejdsformer og metoder fra flere af skolens fag. 
 
-Projektet kan udarbejdes på baggrund af en *opgaverformulering*. Opgaveformuleringen er udformet på baggrund af en *problemstilling* og en såkaldt *problemformulering*
+En **projektopgave** er **ikke** en **emneopgave**, men en opgave hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta. I projektopgaven skal I arbejde på tværs af skolens fag og emner. Kort fortalt betyder det, at I bruger viden, arbejdsformer og metoder fra flere af skolens fag.
 
-problemstilling -->  problemformulering --> opgaveformulering
+Projektet kan udarbejdes på baggrund af en *opgaverformulering*. Opgaveformuleringen er udformet på baggrund af nogle *problemstillinger* og én såkaldt *problemformulering*
+
+> problemstilling -->  problemformulering --> opgaveformulering
+
 
 
 #### Opgaveformuleringen tager udgangspunkt i en problemstilling
 "Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hængder det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar.
-Problemstillingerne bliver altså konstrueret ud fra de fire spørgsmålstyper - spørgsmål, en undren, omkring det underemne I har valgt ([De 4 spørgsmålstyper](#de-fire-spørgsmålstyper))
+Problemstillingerne bliver altså konstrueret ud fra de fire spørgsmålstyper - spørgsmål, en undren, omkring det underemne I har valgt ([De 4 spørgsmålstyper](# De fire spørgsmålstyper))
 
 
-#### Hvad er en problemformulering?
-Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer problemformuleringen din problemstilling på det du egentlig vil undersøge. En problemstilling er ofte bred og rummer flere ting at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specefik, afgrænse- og fokuser dig. 
+### Hvad er problemstillinger?
 
-En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-5 unerspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen. 
+Problemstillinger bliver konstrueret ud fra de fire spørgsmålstyper - spørgsmål, en undren, omkring det underemne I har valgt. 
+([De 4 spørgsmålstyper](https://github.com/AleksHolland84/Projektopgave2022/blob/main/README.md#de-fire-sp%C3%B8rgsm%C3%A5lstyper))
+
+
+### Hvad er en problemformulering?
+
+Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer problemformuleringen dine problemstillinger på det du egentlig vil undersøge. Samlingen af problemstillinger er ofte bredde og indeholder flere aspekter at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specifik, afgrænse- og fokuser dig. En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-3 underspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen.
+
 
 
 ##### Eksempler på problemformuleringer
@@ -74,7 +102,84 @@ En problemformulering består ofte at ét hovedspørgsmål til problemet, som sk
       Hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel 
       og hvordan kom den til udtryk?
  
- 
+### Opgaveformuleringen tager udgangspunkt i en problemstilling
+
+"Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hænger det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar. 
+
+**Eksempler på problemformuleringer**
+
+***Nationalfølelsens udvikling***
+
+```
+  Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark?
+  Hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel 
+  og hvordan kom den til udtryk?
+```
+
+Selvom den et godt eksempel på en fin problemformulering, vil den ikke opfylde kravende til en problemformulering i projektopgaven - da den netop kun behandler nationalfølelsens udvikling i 1800-tallet og ikke er nutidsorienterende. 
+Et andet eksempel på en problemformulering kunne være:
+
+***Spændinger mellem stormagter***
+
+```
+Hvilken rolle spiller Arktis i magtbalancen mellem Rusland og USA.
+Hvilke politiske dillemmaer bliver Danmark nød til at tage stilling til, 
+og hvordan kan Danmark være med til at forhindre en ny kold krig?
+```
+
+Eller:
+
+***Balance mellem bæredygtigt byggeri og socialøkonomiske hensyn***
+
+```
+Når der bygges nye boliger og byområder kan det være en udfordring at balancere 
+forskellige elementer af bæredygtighed, herunder sociale, økonomiske og 
+miljømæssige hensyn. Hvad vil det sige at bygge bæredygtigt? 
+Hvilke forhindringer er der i forhold til at gøre det? Hvordan kan vi i Danmark 
+sørge for, at vores boliger er tilstrækkeligt billige, sunde og sikre, således 
+at fremtidige generationer kan leve i bæredygtige byer og lokalsamfund?
+```
+
+***Eksempel på en opgaveformulering***
+
+```
+Emnebegrundelse:
+	Aktiv dødshjælp er et spændende emne, som rummer et stort etisk dilemma; 
+	er det i orden at tage livet af et andet menneske, som lider og gerne selv
+	vil dø? Og kan den lidende tillade sig at pålægge andre det ansvar?
+	
+	I Danmark har vi en lovgivning, der gør det ulovligt at modtage aktiv dødjhjælp.
+	Vi undrer os over, hvorfor passiv dødshjælp er lovligt i Danmark,når aktiv 
+	dødshjælp ikke er. Derfor vi vil gerne afdække hvilke motiver lovgivningen 
+	bygger på
+
+Problemformulering:
+	Hvilke etiske dilemmaer omkredser aktiv dødshjælp, og hvordan kommer de til
+	udtryk i den Danske lovgivning? Hvordan adskiller dette sig fra andre lande
+	og hvilke konsekvenser kan en lempelse af lovgivningen for aktiv dødshjælp 
+	medføre? 
+
+	*"OBS: problemstillingerne skal ikke med i opgaveformuleringen! Her er de 
+	blot vist for at tydeliggøre processen"*
+
+Problemstillinger:
+	Hvad er aktiv dødshjælp? 
+	Hvordan fungerer aktiv dødshjælp? 
+	Hvad er de etiske dilemmaer omkring aktiv dødshjælp? 
+	Hvad er passiv dødshjælp? 
+	Hvordan fungerer passiv dødshjælp?
+	Hvad er forskellen mellem aktiv og passiv dødshjælp? 
+	Hvorfor er der forskel omkring lovgivningen af aktiv og passiv dødshjælp? 
+	Hvordan er lovgivningen om aktiv og passiv d?dshj?lp i udlandet? 
+	Hvorfor er aktiv dødshjælp lovligt i visse lande? 
+	Hvad mener religionerne om aktiv dødshjælp? 
+	Hvad mener det etiske råd om aktiv dødshjælp 
+	Hvilke positive og negative sider dækker aktiv dødshjælp over? 
+	Hvilke konsekvenser kan en lovligg?relse af aktiv dødshjælp have for 
+		samfundet og for den enkelte 
+	Skal aktiv dødshjælp vøre lovligt? 
+```
+
 
 ## Gode spørgsmål
 
@@ -90,7 +195,7 @@ Dertil kan man bygge *handlingsspørgsmål* på. Her kan du beskrive eventuelle 
 
 Følg evt. Gyldendals vejledning til "Problemstilling"     
      
-![Problemstilling-Gyldendal](https://github.com/AleksHolland84/Projektopgave2022/blob/main/ressourcer/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
+![Problemstilling-Gyldendal]()
 
 
 ### De fire spørgsmålstyper
