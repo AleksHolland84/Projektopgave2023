@@ -46,11 +46,10 @@ I projektforløbene skal I arbejde med at:
 
 # Vejledningstider og guides
 
-<aside>
-💡 **Inden vejledning skal I have afleveret materiale som skal vejledes på baggrund af. 
-Hvis I ikke afleverer “vejlednings-materiale” bliver vores vejledning generel. Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.**
 
-</aside>
+    💡 Inden vejledning skal I have afleveret materiale som skal vejledes på baggrund af. 
+    Hvis I ikke afleverer “vejlednings-materiale” bliver vores vejledning generel. Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.
+    
 ## Hvad er en projektopgave?
 En projektopgave er ikke en emneopgave, men en opgave hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta. I projektopgaven skal I arbejde på tværs af skolens fag og emner. Kort fortalt betyder det, at I bruger viden, arbejdsformer og metoder fra flere af skolens fag. 
 
