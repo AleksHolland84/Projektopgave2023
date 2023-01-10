@@ -80,15 +80,6 @@ Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer p
 "Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hænger det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar. 
 
 
-##### Eksempler på problemformuleringer
-      Hvordan bruges holger Danske-figuren i føste halvdel af 1800-tallets Danmark?
-      Hvordan udviklede nationalfølelsen sig i Danmark i 1800-tallets forste halvdel 
-      og hvordan kom den til udtryk?
- 
-### Opgaveformuleringen tager udgangspunkt i en problemstilling
-
-"Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hænger det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar. 
-
 **Eksempler på problemformuleringer**
 
 ***Nationalfølelsens udvikling***
