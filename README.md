@@ -16,8 +16,20 @@
     
  ___________________________________________________________________________________________________________________________________________________________________
 
-# Projektopgave2022
-Samling af dokumenter til Projektugen 2022
+# Projektuge 9. årgang 2023
+
+## TEMA: Det moderne liv
+
+## Huskeliste fra projektuge 2022:
+
+- Mindre tid på produkt, mere tid på faglighed.
+- Lav en grundig **projektplan** i starten af ugen og brug den i løbet af hele ugen.
+- Øve fremlæggelse i god tid - gerne undervejs, så man ved hvor meget tid det tager at fremlægge.
+- Kom I gang med/planlæg alle elementer i god tid - afsæt tid til i løbet af ugen og overhold det. Lad være med at udskyde til sidste øjeblik.
+- Vælg delemne i god tid —> bedre tid til at finde kilder.
+- Stil krav til hinanden - vælg gode arbejdsgrupper som man føler sig tryg ved.
+- Vælg et emne der interesserer en.
+- Husk at anvende kilder til at argumenterer og begrunde.
 
 
 
@@ -32,7 +44,13 @@ I projektforløbene skal I arbejde med at:
     - svare og kommentere på de spørgsmål, I har stillet jer selv.
     - forberede og udføre en fremlæggelse.
 
+# Vejledningstider og guides
 
+<aside>
+💡 **Inden vejledning skal I have afleveret materiale som skal vejledes på baggrund af. 
+Hvis I ikke afleverer “vejlednings-materiale” bliver vores vejledning generel. Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.**
+
+</aside>
 ## Hvad er en projektopgave?
 En projektopgave er ikke en emneopgave, men en opgave hvor du undersøger og fordyber dig i et problem; Et problem som ikke har én løsning eller et "nemt" svar, som kun behøves besvares med fakta. I projektopgaven skal I arbejde på tværs af skolens fag og emner. Kort fortalt betyder det, at I bruger viden, arbejdsformer og metoder fra flere af skolens fag. 
 
