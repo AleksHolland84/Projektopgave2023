@@ -31,19 +31,6 @@
 - Vælg et emne der interesserer en.
 - Husk at anvende kilder til at argumenterer og begrunde.
 
-
-
-I løbet af 7. - 9. klasse skal I gennemføre en række projektopgaver. 
-I projektforløbene skal I arbejde med at:
-
-    - undersøge og finde informationer om overemne.
-    - vælge et område (underemne), som I vil gå i dybden med og undersøge nærmere.
-    - stille gode spørgsmål til det, I undersøger.
-    - afgrænse en problemstilling, som danner grundlag for jeres undersøgelse.
-    - udvælge de informationer, som er væsentlige for jeres undersøgelse.
-    - svare og kommentere på de spørgsmål, I har stillet jer selv.
-    - forberede og udføre en fremlæggelse.
-
 # Vejledningstider og guides
 
 
