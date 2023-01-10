@@ -21,7 +21,7 @@ UUV: mandag, onsdag og fredag
 
 - Eleverne skal i løbet af ugen have dannet grupper og valgt underemne - deadline fredag
 
-## Uge 3
+## Uge 3 Forberedelse
 
 UUV mandag, fagdag torsdag og fredag:
 
@@ -49,7 +49,7 @@ UUV mandag, fagdag torsdag og fredag:
 - Have fundet mindst 3 kilder, hvoraf minimum én ikke skriftlig kilde (video, interview, case, billede osv.)
 - Igangsat forarbejde af indhentning af empiri - altså, lave aftaler med eventuelle "kilder/data/interview personer".
 
-## Uge 4
+## Uge 4 Projektuge
 
 ### Mandag uge 4 (d. 23.01.23 - Fase: Opdag nr.2)
 
