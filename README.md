@@ -171,7 +171,7 @@ Følg evt. Gyldendals vejledning til "Problemstilling"
      
 ![Problemstilling-Gyldendal]()
 
-
+![https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 ### De fire spørgsmålstyper
 
 
