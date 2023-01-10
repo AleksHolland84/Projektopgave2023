@@ -80,7 +80,7 @@ Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer p
 "Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hænger det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar. 
 
 
-#### Eksempler på problemformuleringer
+### Eksempler på problemformuleringer
 
 ***Nationalfølelsens udvikling***
 
