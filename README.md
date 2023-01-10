@@ -171,7 +171,6 @@ Følg evt. Gyldendals vejledning til "Problemstilling"
      
 ![Problemstilling-Gyldendal](https://portalmotor.gyldendal.dk//-/media/home/kulturfag/historie7-9/billeder/L%C3%A6rer/Plakat-til-pr%C3%B8ven-i-kulturfagene---Problemstilling1500px.a)
 
-![https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true](https://github.com/AleksHolland84/Projektopgave2022/blob/main/images/Plakat_Proeven_i_kulturfagene_problemstilling.jpg?raw=true)
 ### De fire spørgsmålstyper
 
 
