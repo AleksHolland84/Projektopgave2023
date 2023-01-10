@@ -65,13 +65,6 @@ Projektet kan udarbejdes på baggrund af en *opgaverformulering*. Opgaveformuler
 
 > problemstilling -->  problemformulering --> opgaveformulering
 
-
-
-#### Opgaveformuleringen tager udgangspunkt i en problemstilling
-"Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hængder det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar.
-Problemstillingerne bliver altså konstrueret ud fra de fire spørgsmålstyper - spørgsmål, en undren, omkring det underemne I har valgt ([De 4 spørgsmålstyper](# De fire spørgsmålstyper))
-
-
 ### Hvad er problemstillinger?
 
 Problemstillinger bliver konstrueret ud fra de fire spørgsmålstyper - spørgsmål, en undren, omkring det underemne I har valgt. 
@@ -82,6 +75,9 @@ Problemstillinger bliver konstrueret ud fra de fire spørgsmålstyper - spørgsm
 
 Problemformuleringer adskiller sig fra problemstillinger. Kort sagt, fokuserer problemformuleringen dine problemstillinger på det du egentlig vil undersøge. Samlingen af problemstillinger er ofte bredde og indeholder flere aspekter at undersøge - det skal problemformuleringen snævre ind. Den skal gøre din undersøgelse mere specifik, afgrænse- og fokuser dig. En problemformulering består ofte at ét hovedspørgsmål til problemet, som skal besvares i opgaven. Dertil skal der også formuleres 2-3 underspørgsmål, som leder direkte til et samlet svar på hovedspørgsmålet. Altså, hoved- og underspørgsmål skal hænge sammen.
 
+### Opgaveformuleringen tager udgangspunkt i en problemstilling
+
+"Problemet" skal du tænke som noget der kalder på en 'faglig undren' - Noget man fx kan spørge *hvorfor er det egentlig sådan?*. Eller *hvordan hænger det egentlig sammen?* - Altså noget der fordre et relevant og fagligt svar. 
 
 
 ##### Eksempler på problemformuleringer
