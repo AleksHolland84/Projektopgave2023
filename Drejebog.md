@@ -3,7 +3,6 @@
 Tags: Planlægning
 [![Plannig Image](/images/the_planning.png)](https://www.tiktok.com/@digitallybaffled/video/7099413639412731142)
 
-[![Se her hvordan du indsætter en kilde i MS Word](/images/guide_1.0.png)](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
 
 # Trin for trin og Deadlines
 
