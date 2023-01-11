@@ -1,6 +1,7 @@
 # Drejebog
 
 Tags: Planlægning
+![Plannig Image](https://www.tiktok.com/@digitallybaffled/video/7099413639412731142)(https://www.tiktok.com/@digitallybaffled/video/7099413639412731142 "The planning")
 
 # Trin for trin og Deadlines
 
