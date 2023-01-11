@@ -39,6 +39,12 @@
     Derfor er det vigtigt, for at opkvalificere vejledningen, at I er skarpe på de områder I er i tvivl om.
     
 
+## Dokumenter og ressourcer I kan bruge
+| Command | Description |
+| --- | --- |
+| sidehoved | [Sidehoved og forside](ressourcer/Sidehoved og forside.docx) |
+| git diff | Show file differences that haven't been staged |
+
 # Projektopgave2023
 
 ---
