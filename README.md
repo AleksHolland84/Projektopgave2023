@@ -42,7 +42,7 @@
 ## Dokumenter og ressourcer I kan bruge
 | Command | Description |
 | --- | --- |
-| sidehoved | [Sidehoved og forside](ressourcer/Sidehoved og forside.docx) |
+| sidehoved | ([Sidehoved og forside](ressourcer/Sidehoved og forside.docx)) |
 | git diff | Show file differences that haven't been staged |
 
 # Projektopgave2023
