@@ -43,7 +43,7 @@
 | Command | Description |
 | --- | --- |
 | Sidehovede og forside dokument | [Sidehoved og forside.docx](ressourcer/Sidehoved_og_forside.docx) |
-| Link til color palettes | [coolors.co](https://coolors.co/) |
+| Link til color palettes | [http://coolors.co](https://coolors.co/) |
 
 
 # Projektopgave2023
