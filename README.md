@@ -40,7 +40,7 @@
     
 
 ## Dokumenter og ressourcer I kan bruge
-| Command | Description |
+| Indhold | Filnavn |
 | --- | --- |
 | Sidehovede og forside dokument | [Sidehoved og forside.docx](ressourcer/Sidehoved_og_forside.docx) |
 | Link til color palettes | [http://coolors.co](https://coolors.co/) |
