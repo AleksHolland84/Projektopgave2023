@@ -1,7 +1,9 @@
 # Drejebog
 
 Tags: Planlægning
-![Plannig Image](https://www.tiktok.com/@digitallybaffled/video/7099413639412731142)(https://www.tiktok.com/@digitallybaffled/video/7099413639412731142 "The planning")
+[![Plannig Image](https://www.tiktok.com/@digitallybaffled/video/7099413639412731142)](https://www.tiktok.com/@digitallybaffled/video/7099413639412731142 "The planning")
+
+[![Se her hvordan du indsætter en kilde i MS Word](/images/guide_1.0.png)](https://www.youtube.com/watch?v=wAwoikP41Rc&feature=youtu.be)
 
 # Trin for trin og Deadlines
 
