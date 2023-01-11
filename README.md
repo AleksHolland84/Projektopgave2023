@@ -43,9 +43,8 @@
 | Command | Description |
 | --- | --- |
 | Sidehovede og forside dokument | [Sidehoved og forside.docx](ressourcer/Sidehoved_og_forside.docx) |
-| git diff | Show file differences that haven't been staged |
+| Link til color palettes | [coolors.co](https://coolors.co/) |
 
-[Sidehoved og forside](ressourcer/Sidehoved_og_forside.docx)
 
 # Projektopgave2023
 
