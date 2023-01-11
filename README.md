@@ -40,6 +40,10 @@
     
 
 ## Dokumenter og ressourcer I kan bruge
+| Command | Description |
+| --- | --- |
+| Sidehovede og forside dokument | [Sidehoved og forside.docx](ressourcer/Sidehoved_og_forside.docx) |
+| git diff | Show file differences that haven't been staged |
 
 [Sidehoved og forside](ressourcer/Sidehoved_og_forside.docx)
 
