@@ -40,10 +40,8 @@
     
 
 ## Dokumenter og ressourcer I kan bruge
-| Command | Description |
-| --- | --- |
-| Sidehoved og forside | \[Sidehoved og forside\](ressourcer/Sidehoved og forside.docx) |
-| git diff | Show file differences that haven't been staged |
+
+[Sidehoved og forside](ressourcer/Sidehoved og forside.docx)
 
 # Projektopgave2023
 
